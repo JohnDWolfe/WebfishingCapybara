@@ -14,6 +14,7 @@ Playable species with marking variations for the 4 unmodded coats.
 
 ## Installation
 - Install the required dependencies (Requirements above)
+- Download the mod zip [here](https://github.com/JohnDWolfe/WebfishingCapybara/releases)!
 - Unzip GnarlyGnoll.Capybara, placing the folder in your WEBFISHING/GDWeave/mods folder
 
 ### SOMETHINGS WRONG
@@ -22,6 +23,8 @@ I did my best to make sure all the unmodded accessories and hats fit well.
 
 (P.S. lmk bout any hat packs or cosmetic mods that u might want compatibility for)
 
-## Screenshots
-<img src="https://i.postimg.cc/v85fCBCN/image-2024-10-29-072724878.png"/><img src="https://i.postimg.cc/wxFTtYNB/image-2024-10-29-072904811.png"/>
-<img src="https://i.postimg.cc/pdDPRwxR/image-2024-10-29-073009520.png"/><img src="https://i.postimg.cc/cH00HF4Y/image-2024-10-29-073020060.png"/>
+## Proof of my greed
+<video src="https://github.com/user-attachments/assets/fb5acb4e-8fab-48ee-a721-6766efa921a3">
+
+<img src="https://github.com/user-attachments/assets/4012dfec-5f10-4936-865e-470a35a56b4c"/><img src="https://github.com/user-attachments/assets/987057e5-bf29-459a-b010-9f2ddcde49a2"/>
+<img src="https://github.com/user-attachments/assets/ad9ad15c-b507-4eb2-849d-1f0064bdff10"/><img src="https://github.com/user-attachments/assets/d1b2762f-7d42-4602-9117-50b637728ab3"/>
