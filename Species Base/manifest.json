@@ -1,0 +1,14 @@
+{
+  "Id": "GnarlyGnoll.Capybara",
+  "PackPath": "Capybara.pck",
+  "Dependencies": [
+    "Sulayre.Lure"
+  ],
+  "Metadata":
+  {
+        "Name": "Capybara",
+        "Author": "GnarlyGnoll",
+        "Version": "1.0.1",
+        "Description": "Species mod that adds Capybaras!"
+  }
+}
