@@ -1,6 +1,6 @@
 {
     "name": "Capybara",
-    "version_number": "1.0.3",
+    "version_number": "1.0.4",
     "website_url": "https://github.com/JohnDWolfe/WebfishingCapybara",
     "description": "Capybara species for Webfishing! Generally good as a rodent too!",
     "dependencies": [
